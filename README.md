@@ -1,4 +1,4 @@
-![River](river.jpg)
+![River](river_crop.jpeg)
 
 ## Hi there 👋
 
