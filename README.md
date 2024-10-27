@@ -1,4 +1,4 @@
-![River](seoul_edit_199.jpeg)
+![River](seoul_edit_199.jpg)
 
 ## Hi there 👋
 
