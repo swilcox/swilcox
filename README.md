@@ -1,6 +1,6 @@
 ![River](IMG_3267.jpeg)
 
-## Hi there 👋
+## Howdy!
 
 <!--
 **swilcox/swilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
