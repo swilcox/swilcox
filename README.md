@@ -1,7 +1,5 @@
 ## Howdy!
 
-Systems, tools, and a bit of hardware — mostly Rust, Zig, and the occasional web app.
-
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=swilcox&color=blue&label=GitHub+Profile+Views)](https://github.com/swilcox)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-swilcox-2088FF?logo=github)](https://github.com/swilcox)
 
