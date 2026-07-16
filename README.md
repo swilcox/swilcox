@@ -67,5 +67,12 @@
       <b><a href="https://github.com/swilcox/sigan">sigan</a></b><br />
       <sub>Time tracking CLI in Rust (successor to <a href="https://github.com/swilcox/sigye">sigye</a>)</sub>
     </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/swilcox/ham-analysis">
+        <img src="projects/ham-analysis.jpg" width="280" alt="ham-analysis US map" />
+      </a><br />
+      <b><a href="https://github.com/swilcox/ham-analysis">ham-analysis</a></b><br />
+      <sub>Geographic analysis of US amateur radio licenses</sub>
+    </td>
   </tr>
 </table>
