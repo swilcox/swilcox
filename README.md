@@ -74,5 +74,12 @@
       <b><a href="https://github.com/swilcox/ham-analysis">ham-analysis</a></b><br />
       <sub>Geographic analysis of US amateur radio licenses</sub>
     </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://github.com/swilcox/nalssi">
+        <img src="projects/nalssi.jpg" width="280" alt="nalssi weather dashboard" />
+      </a><br />
+      <b><a href="https://github.com/swilcox/nalssi">nalssi</a></b><br />
+      <sub>Centralized weather data collection and distribution</sub>
+    </td>
   </tr>
 </table>
